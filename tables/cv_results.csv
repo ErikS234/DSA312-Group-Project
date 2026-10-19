@@ -1,0 +1,5 @@
+model,AUC mean,AUC sd,F1,Recall,Precision,fit time (s)
+Logistic regression,0.8506,0.0034,0.5645,0.4893,0.6673,0.7122
+Decision tree,0.8751,0.0032,0.6306,0.5654,0.7136,0.2268
+Random forest,0.9061,0.0018,0.6971,0.6526,0.7482,1.4233
+Gradient boosting,0.909,0.0022,0.6965,0.658,0.74,1.7212
